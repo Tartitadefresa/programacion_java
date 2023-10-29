@@ -21,22 +21,22 @@ public class Actividad4 {
                 int i = 0;
                 
         
-        do {
-            System.out.println("Introduce 3 números");
-            i++;
+        // do {
+        //     System.out.println("Introduce 3 números");
+        //     i++;
             
             
-        } while (i < array.getLength(numbers));
-            JOptionPane.showMessageDialog(null, "El almacenamiento ha sido satisfactorio", "Reultado", JOptionPane.OK_OPTION);
-            int  numbers = sc.nextInt();          
+        // } while (i < array.getLength(numbers));
+        JOptionPane.showMessageDialog(null, "El almacenamiento ha sido satisfactorio", "Reultado", JOptionPane.OK_OPTION);
+        int  numbers = sc.nextInt();          
 
 
-            break;
-            
-            case "Salir del programa":
-           
-           
-            break;
+        break;
+        
+        case "Salir del programa":
+    
+        
+        break;
         
                
         }
