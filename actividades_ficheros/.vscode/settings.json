@@ -1,0 +1,15 @@
+{
+    "java.project.sourcePaths": [
+        "actividad_6/src",
+        "actividad_5/src",
+        "actividad_4/src",
+        "actividad_3/src",
+        "actividad_2/src",
+        "actividad_1/src",
+        "actividad_7/src"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ]
+}
